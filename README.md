@@ -1,5 +1,15 @@
 # YesDok
 
+## Rapsodi
+
+- Pembuatan, penerapan, dan penamaan komponen sesuai best practice NuxtJS (Nuxt Docs)
+- Menggunakan TailwindCSS dan configurasinya
+- Tidak menggunakan CSS prepocessor karena kebutuhan style sudah bisa dicover oleh Tailwind dan confignya
+- Penerapan PWA
+- Implementasi head html custom (contoh di page _slug) untuk membantu content terindex SEO
+- Website responsive untuk 3 device (desktop, mobile, dan tab)
+
+
 ## Build Setup
 
 ```bash
