@@ -8,6 +8,7 @@
 - Penerapan PWA
 - Implementasi head html custom (contoh di page _slug) untuk membantu content terindex SEO
 - Website responsive untuk 3 device (desktop, mobile, dan tab)
+- Sudah menggunakan Vuex
 
 
 ## Build Setup
