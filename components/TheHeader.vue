@@ -79,5 +79,10 @@ export default {
   created() {
     this.category = data.category;
   },
+  watch:{
+    $route (){
+        this.menuOpen = false;
+    }
+  }
 };
 </script>
